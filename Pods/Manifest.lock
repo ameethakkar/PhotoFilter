@@ -1,0 +1,20 @@
+PODS:
+  - Sharaku (1.0.2)
+  - TKCalendarView (0.1.1)
+
+DEPENDENCIES:
+  - Sharaku
+  - TKCalendarView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Sharaku
+    - TKCalendarView
+
+SPEC CHECKSUMS:
+  Sharaku: c18de569fc99f6e936f46ca812b571826cc658a7
+  TKCalendarView: 912b6d6c629648492de6f8bbda87ba69276d1dac
+
+PODFILE CHECKSUM: 50555d76f2da654710612969e7f0dc26486d29c8
+
+COCOAPODS: 1.5.3
